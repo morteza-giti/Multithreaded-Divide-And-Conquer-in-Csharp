@@ -1,0 +1,10 @@
+C:\Users\Morteza\Documents\Visual Studio 2010\Projects\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\bin\Debug\MultithreadedDivideAndConquer.exe
+C:\Users\Morteza\Documents\Visual Studio 2010\Projects\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\bin\Debug\MultithreadedDivideAndConquer.pdb
+C:\Users\Morteza\Documents\Visual Studio 2010\Projects\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Morteza\Documents\Visual Studio 2010\Projects\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\obj\x86\Debug\MultithreadedDivideAndConquer.exe
+C:\Users\Morteza\Documents\Visual Studio 2010\Projects\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\obj\x86\Debug\MultithreadedDivideAndConquer.pdb
+C:\Users\Morteza\Desktop\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\obj\x86\Debug\MultithreadedDivideAndConquer.exe
+C:\Users\Morteza\Desktop\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\obj\x86\Debug\MultithreadedDivideAndConquer.pdb
+C:\Users\Morteza\Desktop\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\bin\Debug\MultithreadedDivideAndConquer.exe
+C:\Users\Morteza\Desktop\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\bin\Debug\MultithreadedDivideAndConquer.pdb
+C:\Users\Morteza\Desktop\MultithreadedDivideAndConquer\MultithreadedDivideAndConquer\obj\x86\Debug\ResolveAssemblyReference.cache
